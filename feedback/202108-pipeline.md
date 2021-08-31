@@ -1,5 +1,11 @@
 # pipeline 提案讨论
 
+由第七次JSCIG会议讨论整理
+
+- 参与讨论：...
+- 整理：@xiaoxiangmoe
+- 修订：@hax
+
 ## hack pipeline operator
 
 状态：
@@ -8,11 +14,10 @@ stage 0
 
 问题：
 
-1. stage 0, 借壳上市？
-2. Champions have tentative consensus for Hack-style as the way forward. 【存疑】
-3. Dev community is still split, but there appears to be overwhelming support for pipeline syntax in whatever form we decide on. 【请求出处】
-4. 调查显示，社区希望有 Pipeline Operators（第四希望的特性），但是并不清楚社区对几种 style 的偏好和倾向
-5. 函数链式调用 demo
+1. Champions have tentative consensus for Hack-style as the way forward. 【存疑】
+2. Dev community is still split, but there appears to be overwhelming support for pipeline syntax in whatever form we decide on. 【请求出处】
+3. State-ofJS 调查显示，社区希望有 Pipeline Operators（第四希望的特性），但是并不清楚社区对几种 style 的偏好和倾向
+4. 函数链式调用 demo
 
 ```ts
 foo(bar(1, baz(x)[0]).method());
