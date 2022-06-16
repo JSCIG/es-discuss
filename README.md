@@ -9,8 +9,8 @@ JavaScript语言标准（ECMAScript）中文讨论
 
 自2022年6月开始，试行[定期的在线讨论会](https://github.com/JSCIG/es-discuss/issues/44)。
 
-Time slot A：单数月第四个周二下午2点到3点；
-Time slot B：双数月第三个周四下午3点到4点（注：4点到5点为TC39 research call的time slot B，这样可以连上）。
+- Time slot A：单数月第四个周二下午2点到3点；
+- Time slot B：双数月第三个周四下午3点到4点（注：4点到5点为TC39 research call的time slot B，这样可以连上）。
 
 ### 往期会议
 
