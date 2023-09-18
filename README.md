@@ -5,13 +5,6 @@ JavaScript语言标准（ECMAScript）中文讨论
 
 ## 在线讨论会
 
-### 定期会议
-
-自2022年6月开始，试行[定期的在线讨论会](https://github.com/JSCIG/es-discuss/issues/44)。
-
-- Time slot A：单数月第四个周二下午2点到3点，腾讯会议号：742-3119-5402，链接：https://meeting.tencent.com/dm/9eKGnUNa3e49 ；
-- Time slot B：双数月第三个周四下午3点到4点（注：4点到5点为TC39 research call的time slot B，这样可以连上），腾讯会议号：990-4442-7012，链接：https://meeting.tencent.com/dm/iDRkn1ajR4so 。
-
 ### 往期会议
 
 - [第一次会议（2021/1/18 星期一）](https://github.com/JSCIG/es-discuss/issues/22)
