@@ -4,8 +4,7 @@ JavaScript语言标准（ECMAScript）中文讨论
 讨论区：[JSCIG/es-discuss/discussions](https://github.com/JSCIG/es-discuss/discussions)
 
 ## 在线讨论会
-
-- [第二十五次会议（2023-09-18 周一）](https://github.com/JSCIG/es-discuss/issues/60)
+- [第三十一次会议（2025-02-13 周四）](https://github.com/JSCIG/es-discuss/issues/73)
 
 ## 往期会议
 
@@ -38,3 +37,11 @@ JavaScript语言标准（ECMAScript）中文讨论
 - [第二十二次会议（2023-05-15 周一）](https://github.com/JSCIG/es-discuss/issues/57)
 - [第二十三次会议（2023-07-07 周五）](https://github.com/JSCIG/es-discuss/issues/58)
 - [第二十四次会议（2023-09-12 周二）](https://github.com/JSCIG/es-discuss/issues/59)
+- [第二十五次会议（2023-09-18 周一）](https://github.com/JSCIG/es-discuss/issues/60)
+- [第二十六次会议（2023-11-24 周五）](https://github.com/JSCIG/es-discuss/issues/61)
+
+### 2024年
+- [第二十七次会议（2024-01-26 周五）](https://github.com/JSCIG/es-discuss/issues/62)
+- [第二十八次会议（2024-04-05 周五）](https://github.com/JSCIG/es-discuss/issues/63)
+- [第二十九次会议（2024-09-27 周五）](https://github.com/JSCIG/es-discuss/issues/66)
+- [第三十次会议（2024-12-04 周三）](https://github.com/JSCIG/es-discuss/issues/72)
